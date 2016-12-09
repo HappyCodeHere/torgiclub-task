@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@keyframes apearing {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.congratulation-box {
+	animation: apearing 1s;
+	width: 300px;
+	margin: 20px auto;
+	box-shadow: 1px 1px 5px 0 gray;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+input[type="text"] {
+	margin: 10px;
+}
+
+input[type="checkbox"] {
+	margin-left: 10px;
+}

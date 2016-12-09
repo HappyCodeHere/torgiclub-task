@@ -1,0 +1,14 @@
+.app h2 {
+	text-align: center;
+}
+
+.app select {
+	display: block;
+	margin: 20px auto;
+}
+
+.app > div {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5%;
+}

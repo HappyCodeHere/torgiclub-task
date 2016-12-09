@@ -1,0 +1,36 @@
+
+.leftside-modal {
+	width: 85%;
+	margin: 20px auto;
+	border: 2px solid orange;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+}
+
+.leftside-modal h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid #37D4E1;
+	width: 300px;
+	margin: 20px auto;
+	padding-bottom: 5px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.leftside-modal h3 {
+	font-weight: bold;
+}
+
+.leftside-modal h3 span {
+	color: #5FE137;
+	font-size: 30px;
+}
+
+.leftside-modal p:last-of-type {
+	color: #9D8258;
+}
+
+.leftside-modal button {
+	min-width: 200px;
+}

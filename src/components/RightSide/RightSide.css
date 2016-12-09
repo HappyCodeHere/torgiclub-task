@@ -1,0 +1,13 @@
+.rightside {
+	width: 30%;
+}
+
+.rightside label {
+	margin: 30px;
+}
+
+.rightside button {
+	display: block;
+	margin: 20px auto;
+	min-width: 200px;
+}
